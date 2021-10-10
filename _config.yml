@@ -11,9 +11,9 @@ title                    : "Huang Jiaxing / Site Title"
 title_separator          : "-"
 name                     : &name "Huang Jiaxing"
 description              : &description "personal description"
-url                      : https://WHU-YH-jx.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://huangjiaxing.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "WHU-YH-jx/WHU-YH-jx.github.io"
+repository               : "WHU-YH-jx/huangjiaxing.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
